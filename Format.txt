@@ -1,0 +1,67 @@
+Introduction 
+Business Problems 
+Objective 
+Methodology 
+Data Overview 
+Key findings
+Temporal Trends (2 pages: Monthly Sales Trends (Line graph: Revenue, Quantity), Monthly Average Order Value Trends)
+Product Performance (2 Pages by Revenue, by purchased frequency, will use bar graph) 
+Product Association (3 pages Product co-occurance matrix: top 10 frequenctly purcahsed and most revenued, network graph) 
+Customer Behavious Insights (3 pages: top 10 customer based on purchase frequency and revenue, line graph monthly customer count and average order value trends))
+Recommendations
+Conclussion 
+
+Key findings
+Country: United Kingdom 
+Unique Products: 4046
+Unique Customers: 3921
+Total Transactions: 18786
+Total Quantity Sold: 4718329
+Total Revenue: £8979619.97
+Average Order Value: £478.00
+Average Number Of Products per Purchase :25.611785372085595
+
+min_support = 0.03> Basket 
+metric = "lift", min_threshold = 0.5> Association Rule
+Asso_Rules_UK['lift'] > 3 >> Strong Rule
+
+
+Product by Purchase 
+1. The "WHITE HANGING HEART T-LIGHT HOLDER" tops the list, showing a high preference for decorative home items.
+2. Reusable bags like "JUMBO BAG RED RETROSPOT" and "LUNCH BAG RED RETROSPOT" are highly popular, indicating eco-conscious customers.
+3. Party supplies, such as "PARTY BUNTING" and "REGENCY CAKESTAND 3 TIER," are in high demand for event-related purchases.
+4. Practical home products like the "SET OF 3 CAKE TINS PANTRY DESIGN" are frequently ordered, highlighting customer interest in functional kitchenware.
+
+
+Product by Revenue
+1. "DOTCOM POSTAGE" generated the highest revenue, reflecting significant online shipping and delivery activity.
+2. "PAPER CRAFT, LITTLE BIRDIE" contributed substantially to total revenue, indicating the popularity of creative craft products.
+3. The "REGENCY CAKESTAND 3 TIER" ranks high in revenue, highlighting its strong appeal for decorative kitchenware.
+4. "WHITE HANGING HEART T-LIGHT HOLDER" continues to be a top earner, emphasizing its status as a popular home decor item.
+
+Customer by order:
+1. Customer 12748 made the highest number of purchases, showcasing exceptional brand loyalty with 210 transactions.
+2. Customer 17841 comes in second with 124 purchases, indicating regular and frequent shopping activity.
+3. Customers 13089 and 14606 both display strong engagement with over 90 transactions each.
+4. The remaining customers, like 15311 and 12971, have also made significant contributions, reinforcing consistent purchasing behavior with over 80 purchases.
+
+
+Customer by revenue:
+1. Customer 18102 generated the highest revenue with £259,657.30 from 60 purchases, indicating high-value transactions.
+2. Customer 17450 contributed significantly with £194,390.79 from 46 purchases, showing strong purchasing power.
+3. 16446, despite making only 2 purchases, generated an impressive £168,472.50, suggesting high-priced orders.
+4. Customers like 17511 and 16029 maintained steady shopping activity, contributing £91,062.38 and £80,850.84, respectively.
+
+
+monthly trends (revenue and quantity) line graph:
+1. November 2011 marked the highest revenue spike (£1,319,934.07), driven by an increase in both sales volume (668,801 units) and customer activity (1,506 customers).
+2. September 2011 saw a notable increase in revenue and quantity sold, with 482,496 units and £895,098.64 in sales.
+3. December 2010 kicked off the trend with high sales of £746,082.22 and 316,027 units, reflecting strong year-end purchasing.
+4. A dip in both quantity sold and revenue was observed in February and April 2011, with revenues of £428,986.62 and £475,677.63, respectively, possibly indicating a post-holiday slowdown. 
+
+
+
+
+
+
+
